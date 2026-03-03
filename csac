@@ -1,0 +1,59 @@
+[33mcommit 2fdcaf56fad45d643bba21f9ccf7d8bf1bf201e9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: 1-Rinata-1 <60697925+1-Rinata-1@users.noreply.github.com>
+Date:   Tue Mar 3 21:06:48 2026 +0300
+
+    exe
+
+[33mcommit d2d98d7b22ef9d5f401e6fe8c0fe70926a1ca85a[m
+Author: 1-Rinata-1 <60697925+1-Rinata-1@users.noreply.github.com>
+Date:   Tue Mar 3 21:05:40 2026 +0300
+
+    иконки
+
+[33mcommit 4de170bbe9aca31d80e295f8f6a13a5c7900c4e9[m
+Author: 1-Rinata-1 <60697925+1-Rinata-1@users.noreply.github.com>
+Date:   Tue Mar 3 21:04:51 2026 +0300
+
+    экранные формы
+
+[33mcommit 2927219edc8dd4f04b4f3f9f801dc41dad906a24[m
+Author: 1-Rinata-1 <60697925+1-Rinata-1@users.noreply.github.com>
+Date:   Tue Mar 3 21:04:20 2026 +0300
+
+    модели
+
+[33mcommit d82ec4744ad801e8155d5ecf44bae716d531b1f9[m
+Author: 1-Rinata-1 <60697925+1-Rinata-1@users.noreply.github.com>
+Date:   Tue Mar 3 21:03:47 2026 +0300
+
+    паттерн одиночка
+
+[33mcommit e6016580bd90d426174d0dc89717a48f8cabf33c[m
+Author: 1-Rinata-1 <60697925+1-Rinata-1@users.noreply.github.com>
+Date:   Tue Mar 3 21:02:52 2026 +0300
+
+    паттерн прототип
+
+[33mcommit d065b101f7f54dfde39e76355101263b9a921b55[m
+Author: 1-Rinata-1 <60697925+1-Rinata-1@users.noreply.github.com>
+Date:   Tue Mar 3 21:02:25 2026 +0300
+
+    паттерн строитель
+
+[33mcommit 2ed7ba3be8f14909d4dadb847672961d4f24c762[m
+Author: 1-Rinata-1 <60697925+1-Rinata-1@users.noreply.github.com>
+Date:   Tue Mar 3 21:01:46 2026 +0300
+
+    паттерн абстрактная фабрика
+
+[33mcommit cf7340a7018fcd7da8e5266db8e8b1c8e7e76890[m
+Author: 1-Rinata-1 <60697925+1-Rinata-1@users.noreply.github.com>
+Date:   Tue Mar 3 21:00:59 2026 +0300
+
+    паттерн фабричный метод
+
+[33mcommit b289c1d3d2b0cfa16d01d1dfdde5691c23166e83[m
+Author: 1-Rinata-1 <60697925+1-Rinata-1@users.noreply.github.com>
+Date:   Tue Mar 3 20:59:55 2026 +0300
+
+    main program

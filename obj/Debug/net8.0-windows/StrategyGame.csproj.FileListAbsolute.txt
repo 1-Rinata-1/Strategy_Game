@@ -1,0 +1,109 @@
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/bin/Debug/net8.0-windows/assets/coin.png
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/bin/Debug/net8.0-windows/assets/dwarf.png
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/bin/Debug/net8.0-windows/assets/elf.png
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/bin/Debug/net8.0-windows/assets/hammer.png
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/bin/Debug/net8.0-windows/assets/heart.png
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/bin/Debug/net8.0-windows/assets/house.png
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/bin/Debug/net8.0-windows/assets/main.png
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/bin/Debug/net8.0-windows/assets/orc.png
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/bin/Debug/net8.0-windows/assets/sword.png
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/bin/Debug/net8.0-windows/assets/tower.png
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/bin/Debug/net8.0-windows/StrategyGame.exe
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/bin/Debug/net8.0-windows/StrategyGame.deps.json
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/bin/Debug/net8.0-windows/StrategyGame.runtimeconfig.json
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/bin/Debug/net8.0-windows/StrategyGame.dll
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/bin/Debug/net8.0-windows/StrategyGame.pdb
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/obj/Debug/net8.0-windows/StrategyGame.GeneratedMSBuildEditorConfig.editorconfig
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/obj/Debug/net8.0-windows/StrategyGame.AssemblyInfoInputs.cache
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/obj/Debug/net8.0-windows/StrategyGame.AssemblyInfo.cs
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/obj/Debug/net8.0-windows/StrategyGame.csproj.CoreCompileInputs.cache
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/obj/Debug/net8.0-windows/StrategyGame.dll
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/obj/Debug/net8.0-windows/refint/StrategyGame.dll
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/obj/Debug/net8.0-windows/StrategyGame.pdb
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/obj/Debug/net8.0-windows/StrategyGame.genruntimeconfig.cache
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/obj/Debug/net8.0-windows/ref/StrategyGame.dll
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/obj/Debug/net8.0-windows/StrategyGame.RaceSelectionForm.resources
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/obj/Debug/net8.0-windows/StrategyGame.RoleSelectionForm.resources
+E:/10n31y/Downloads/StrategyGameNet8_v5 (1)/StrategyGame/obj/Debug/net8.0-windows/StrategyGame.csproj.GenerateResource.cache
+/Users/malikgapurov/Downloads/StrategyGame/bin/Debug/net8.0-windows/assets/coin.png
+/Users/malikgapurov/Downloads/StrategyGame/bin/Debug/net8.0-windows/assets/dwarf.png
+/Users/malikgapurov/Downloads/StrategyGame/bin/Debug/net8.0-windows/assets/elf.png
+/Users/malikgapurov/Downloads/StrategyGame/bin/Debug/net8.0-windows/assets/hammer.png
+/Users/malikgapurov/Downloads/StrategyGame/bin/Debug/net8.0-windows/assets/heart.png
+/Users/malikgapurov/Downloads/StrategyGame/bin/Debug/net8.0-windows/assets/house.png
+/Users/malikgapurov/Downloads/StrategyGame/bin/Debug/net8.0-windows/assets/main.png
+/Users/malikgapurov/Downloads/StrategyGame/bin/Debug/net8.0-windows/assets/orc.png
+/Users/malikgapurov/Downloads/StrategyGame/bin/Debug/net8.0-windows/assets/sword.png
+/Users/malikgapurov/Downloads/StrategyGame/bin/Debug/net8.0-windows/assets/tower.png
+/Users/malikgapurov/Downloads/StrategyGame/bin/Debug/net8.0-windows/StrategyGame
+/Users/malikgapurov/Downloads/StrategyGame/bin/Debug/net8.0-windows/StrategyGame.deps.json
+/Users/malikgapurov/Downloads/StrategyGame/bin/Debug/net8.0-windows/StrategyGame.runtimeconfig.json
+/Users/malikgapurov/Downloads/StrategyGame/bin/Debug/net8.0-windows/StrategyGame.dll
+/Users/malikgapurov/Downloads/StrategyGame/bin/Debug/net8.0-windows/StrategyGame.pdb
+/Users/malikgapurov/Downloads/StrategyGame/obj/Debug/net8.0-windows/StrategyGame.RaceSelectionForm.resources
+/Users/malikgapurov/Downloads/StrategyGame/obj/Debug/net8.0-windows/StrategyGame.RoleSelectionForm.resources
+/Users/malikgapurov/Downloads/StrategyGame/obj/Debug/net8.0-windows/StrategyGame.csproj.GenerateResource.cache
+/Users/malikgapurov/Downloads/StrategyGame/obj/Debug/net8.0-windows/StrategyGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malikgapurov/Downloads/StrategyGame/obj/Debug/net8.0-windows/StrategyGame.AssemblyInfoInputs.cache
+/Users/malikgapurov/Downloads/StrategyGame/obj/Debug/net8.0-windows/StrategyGame.AssemblyInfo.cs
+/Users/malikgapurov/Downloads/StrategyGame/obj/Debug/net8.0-windows/StrategyGame.csproj.CoreCompileInputs.cache
+/Users/malikgapurov/Downloads/StrategyGame/obj/Debug/net8.0-windows/StrategyGame.dll
+/Users/malikgapurov/Downloads/StrategyGame/obj/Debug/net8.0-windows/refint/StrategyGame.dll
+/Users/malikgapurov/Downloads/StrategyGame/obj/Debug/net8.0-windows/StrategyGame.pdb
+/Users/malikgapurov/Downloads/StrategyGame/obj/Debug/net8.0-windows/StrategyGame.genruntimeconfig.cache
+/Users/malikgapurov/Downloads/StrategyGame/obj/Debug/net8.0-windows/ref/StrategyGame.dll
+E:\10n31y\Downloads\final1\StrategyGame\bin\Debug\net8.0-windows\assets\coin.png
+E:\10n31y\Downloads\final1\StrategyGame\bin\Debug\net8.0-windows\assets\dwarf.png
+E:\10n31y\Downloads\final1\StrategyGame\bin\Debug\net8.0-windows\assets\elf.png
+E:\10n31y\Downloads\final1\StrategyGame\bin\Debug\net8.0-windows\assets\hammer.png
+E:\10n31y\Downloads\final1\StrategyGame\bin\Debug\net8.0-windows\assets\heart.png
+E:\10n31y\Downloads\final1\StrategyGame\bin\Debug\net8.0-windows\assets\house.png
+E:\10n31y\Downloads\final1\StrategyGame\bin\Debug\net8.0-windows\assets\main.png
+E:\10n31y\Downloads\final1\StrategyGame\bin\Debug\net8.0-windows\assets\orc.png
+E:\10n31y\Downloads\final1\StrategyGame\bin\Debug\net8.0-windows\assets\sword.png
+E:\10n31y\Downloads\final1\StrategyGame\bin\Debug\net8.0-windows\assets\tower.png
+E:\10n31y\Downloads\final1\StrategyGame\bin\Debug\net8.0-windows\StrategyGame.exe
+E:\10n31y\Downloads\final1\StrategyGame\bin\Debug\net8.0-windows\StrategyGame.deps.json
+E:\10n31y\Downloads\final1\StrategyGame\bin\Debug\net8.0-windows\StrategyGame.runtimeconfig.json
+E:\10n31y\Downloads\final1\StrategyGame\bin\Debug\net8.0-windows\StrategyGame.dll
+E:\10n31y\Downloads\final1\StrategyGame\bin\Debug\net8.0-windows\StrategyGame.pdb
+E:\10n31y\Downloads\final1\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.RaceSelectionForm.resources
+E:\10n31y\Downloads\final1\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.RoleSelectionForm.resources
+E:\10n31y\Downloads\final1\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.csproj.GenerateResource.cache
+E:\10n31y\Downloads\final1\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\10n31y\Downloads\final1\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.AssemblyInfoInputs.cache
+E:\10n31y\Downloads\final1\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.AssemblyInfo.cs
+E:\10n31y\Downloads\final1\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.csproj.CoreCompileInputs.cache
+E:\10n31y\Downloads\final1\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.dll
+E:\10n31y\Downloads\final1\StrategyGame\obj\Debug\net8.0-windows\refint\StrategyGame.dll
+E:\10n31y\Downloads\final1\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.pdb
+E:\10n31y\Downloads\final1\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.genruntimeconfig.cache
+E:\10n31y\Downloads\final1\StrategyGame\obj\Debug\net8.0-windows\ref\StrategyGame.dll
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\bin\Debug\net8.0-windows\assets\coin.png
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\bin\Debug\net8.0-windows\assets\dwarf.png
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\bin\Debug\net8.0-windows\assets\elf.png
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\bin\Debug\net8.0-windows\assets\hammer.png
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\bin\Debug\net8.0-windows\assets\heart.png
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\bin\Debug\net8.0-windows\assets\house.png
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\bin\Debug\net8.0-windows\assets\main.png
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\bin\Debug\net8.0-windows\assets\orc.png
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\bin\Debug\net8.0-windows\assets\sword.png
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\bin\Debug\net8.0-windows\assets\tower.png
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\bin\Debug\net8.0-windows\StrategyGame.exe
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\bin\Debug\net8.0-windows\StrategyGame.deps.json
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\bin\Debug\net8.0-windows\StrategyGame.runtimeconfig.json
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\bin\Debug\net8.0-windows\StrategyGame.dll
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\bin\Debug\net8.0-windows\StrategyGame.pdb
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.RaceSelectionForm.resources
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.RoleSelectionForm.resources
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.csproj.GenerateResource.cache
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.AssemblyInfoInputs.cache
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.AssemblyInfo.cs
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.csproj.CoreCompileInputs.cache
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.dll
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\obj\Debug\net8.0-windows\refint\StrategyGame.dll
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.pdb
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.genruntimeconfig.cache
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\obj\Debug\net8.0-windows\ref\StrategyGame.dll
+C:\Users\Rinata\Desktop\КАИ\ТВПП ИТС\Final\StrategyGame\obj\Debug\net8.0-windows\StrategyGame.RulesForm.resources
